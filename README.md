@@ -19,4 +19,6 @@ The application asks the user for a year and a title, and returns the movie's ye
 ```
 
 To run, simply copy and paste the command below in your terminal.  
-```dotnet run```
+```
+dotnet run
+```
